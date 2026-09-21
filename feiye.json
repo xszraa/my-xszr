@@ -1,0 +1,13 @@
+{
+    "sites": [
+        {
+            "key": "feiye_api",
+            "name": "绯夜片库",
+            "type": 1,
+            "api": "https://feiye111.pages.dev/api/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ]
+}
