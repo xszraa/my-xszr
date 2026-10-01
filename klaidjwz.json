@@ -1,0 +1,14 @@
+{
+    "spider": "",
+    "sites": [
+        {
+            "key": "kulao_ai_short",
+            "name": "裤佬Ai短剧",
+            "type": 1,
+            "api": "https://klaidjwz.pages.dev/api",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ]
+}
