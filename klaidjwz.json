@@ -3,7 +3,7 @@
         {
             "key": "klaidjwz_api",
             "name": "裤佬Ai短剧",
-            "type": 0,
+            "type": 1,
             "api": "https://klaidjwz.pages.dev/detail",
             "searchable": 1,
             "quickSearch": 1,
