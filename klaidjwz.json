@@ -4,7 +4,7 @@
             "key": "klaidjwz_api",
             "name": "Klaidjwz 影视源",
             "type": 1,
-            "api": "https://klaidjwz.pages.dev/",
+            "api": "https://klaidjwz.pages.dev",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
